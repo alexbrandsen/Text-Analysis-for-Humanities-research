@@ -1,0 +1,1259 @@
+Where?
+Survey and Excavation of Sites
+and Features
+A major characteristic of archaeology is that it commonly
+draws evidence from fieldwork, that is, from
+survey and excavation. Traditionally, fieldwork was seen
+almost exclusively in terms of the discovery and uncovering
+of sites. Today, archaeologists are more aware of
+the high cost and destructiveness of excavation, and so
+while sites and their excavation remain of paramount
+importance, site surface survey and subsurface detection
+using non-destructive remote sensing devices
+are now widely used. Indeed, some archaeological
+projects may not include excavation at all, and instead
+focus on various forms of survey. The use of non-invasive
+survey not only leaves the archaeology undisturbed but
+also helps to answer new questions. For example, the
+study of entire landscapes by regional survey is now a
+major part of archaeological fieldwork.
+In archaeological fieldwork, we may distinguish
+between the methods used in the discovery of archaeological
+sites and non-site features or artifact scatters,
+and those employed once those sites and features have
+been discovered, which include detailed survey and
+selective excavation at individual sites. It is important
+to note that new evidence can often come from new
+work at sites already the subject of fieldwork, such as Ian
+Hodder’s renewal and reappraisal of the excavations of
+the Turkish tell site of Çatalhöyük (see box, pp. 44–45).
+Much potentially rich and rewarding material also lies
+locked away in museum and institution vaults, waiting
+to be analyzed by innovative modern techniques. Yet
+it remains true that the great majority of archaeological
+research is still dependent on the collection of new
+material by fresh fieldwork.
+Discovering Archaeological Sites
+and Features
+One major task of the archaeologist is to find and record
+the location of sites and features. In this section we will
+be reviewing some of the principal techniques used in site
+discovery. But we should not forget that many monuments
+have never been lost to posterity: the massive pyramids of
+Egypt, or those of Teotihuacán near modern Mexico City,
+have always been known to succeeding generations, as has
+the Great Wall of China or many of the buildings in the
+Forum in Rome. Their exact function or purpose may indeed
+have aroused controversy down the centuries, but their
+presence, the fact of their existence, was never in doubt.
+Nor can one credit archaeologists with the discovery of
+all those sites that were once lost. A signiﬁcant number of
+sites known today were found by accident: the amazing
+terracotta army of China’s ﬁrst emperor was unearthed in
+1974 by farmers digging for a well; in France, the decorated
+caves of Lascaux were stumbled upon in 1940 by teenagers,
+and the underwater entrance to those of Cosquer
+was discovered by a deep-sea diver in 1985. Countless
+underwater wrecks have been spotted first by ﬁshermen,
+sponge-gatherers, and sport-divers. Construction workers
+building new roads, subways, dams, and ofﬁce blocks have
+made their fair share of discoveries too for example, the
+Templo Mayor (Great Temple) of the Aztecs in Mexico City
+(see box, pp. 570 71).
+Nevertheless, it is archaeologists who have systematically
+attempted to record these sites, and it is archaeologists
+who seek out the full range of sites and features, large or
+small, that make up the great diversity of past landscapes.
+How do they achieve this?
+A practical distinction can be drawn between site discovery
+conducted at ground level (ground reconnaissance)
+and discovery from the air or from space (aerial survey),
+although any one ﬁeld project will usually employ both
+types of reconnaissance.
+
+Ground Reconnaissance
+Methods for identifying individual sites include consultation
+of documentary sources and place-name evidence,
+but primarily comprises actual fieldwork, whether the
+monitoring ofbuilcling developers' progress in applied or
+compliance archaeology (often known in the UK as salvage
+or rescue archaeology), or survey in circumstances where
+the archaeologist is more of a free agent.
+Documentary Sources. We saw how Schliemann's firm
+belief in the historical accuracy of the writings of Homer
+led directly to the discovery of ancient Troy in Chapter 1.
+In the 1960s, the location and excavation by Helge and
+Anne Stine Ingstad of the VIking settlement of LJ\nse aux
+Meadows in Newfoundland was similarly due in large
+part to clues contained in medieval Viking sagas. Much
+of modern biblical an::haeology concerns itself with the
+search in the Near East for evidence of the places, people,
+and events described in the Old and New Testaments.
+Treated objectively as a possible source of information
+about Near Eastern sites, the Bible can indeed be a rich
+source of documentary material, but there is certainly the
+danger that belief in the absolute religious truth of the
+texts can cloud an impartial assessment of their archaeological
+validity.
+Much research in biblical archaeology involves attempting
+to link named biblical sites with archaeologically
+known ones. Place-name evidence, however, can also
+lead to actual discoveries of new archaeological sites. In
+southwest Europe, for example, many prehistoric stone
+tombs have been found thanks to old names printed on
+maps that incorporate local words for "stone" or "tomb."
+Early maps and old street names are even more important
+in helping archaeologists work out the former plans
+of historic towns. In England, it is possible in the betterdocumented
+medieval towns to map many of the streets,
+houses, churches, and castles back to the twelfth century
+cs, or even earlier, using this kind of evidence. Such maps
+then form a reliable basis on which to decide where it
+would be most profitable to carry out survey work and
+excavation.
+Cultural Resource Manageme nt and Applied or
+Compliance Archaeology. In this specialized work (discussed
+in Chapter 15), the role of the archaeologist is to
+locate and record sites before they are destroyed by new
+roads, buildings, or darns, or by peatcutting and drainage
+in wetlands. In the USA a large number of sites are located
+and recorded in inventories every year under cultural
+resource management (CRM) laws, which were considerably
+broadened and strengthened in the 1970s. Proper
+liaison with the developer should allow archaeological
+survey to take place in advance along the projected line of
+road or in the path of development. Important sites thus
+discovered may require excavation, and in some cases
+can even cause construction plans to be altered. Certain
+archaeological remains unearthed during the digging of
+subways in Rome and Mexico City were incorporated into
+station architecture.
+In Britain, as in the USA, most excavations and surveys
+are undertaken in the context of cultural resource management
+the influence of the British "National Planning
+Policy Framework" has meant that expenditure on archaeology
+by developers has grown to more than £10 million
+($15.4 million) annually.
+Survey. How does the archaeologist set about locating sites,
+other than through documentary sources and salvage work?
+A conventional and still valid method is to look for the most
+prominent remains in a landscape, particularly surviving
+remnants of walled buildings, and burial mounds such as
+those in eastern North America or Wessex in southern
+England. But many sites are visible on the surface only as a
+scatter of artifacts and so require more thorough survey
+what we may call a "reconnaissance survey" to be detected.
+In recent years, as archaeologists have become more
+interested in reconstructing the full human use of the
+landscape, they have begun to realize that there are very
+faint scatters of artifacts that might not qualify as sites, but
+which nevertheless represent signiﬁcant human activity.
+Some scholars have suggested that these "off-site" or "nonsite"
+areas (that is, areas with a low density of artifacts)
+should be located and recorded, which can only be done
+by systematic survey work involving careful sampling
+procedures (see below). This approach is particularly
+useful in areas where people leading a mobile way of life
+have left only a sparse archaeological record, as in much
+of Africa (see further discussion in Chapter 5).
+Survey has become important for another major reason:
+the growth of regional studies. Thanks to the pioneering
+researches of scholars such as Gordon Willey in the Virú
+Valley, Peru, and William T. Sanders (1926 2008) in the
+Valley of Mexico, archaeologists increasingly seek to study
+settlement patterns the distribution of sites across the
+landscape within a given region. The signiﬁcance of this
+work for the understanding of past societies is discussed
+further in Chapter 5. Here we may note its impact on
+archaeological ﬁeldwork: it is rarely enough now merely
+to locate an individual site and then to survey it and/or
+excavate it in isolation from other sites. Whole regions
+need to be explored, involving a program of survey.
+In the last few decades, reconnaissance survey has
+developed from being simply a preliminary stage in
+ﬁeldwork (looking for appropriate sites to excavate) to
+a more or less independent kind of inquiry, an area of
+research in its own right which can produce information
+quite different from that achieved by digging. In some
+cases, excavation may not take place at all, perhaps because
+permission to dig was not forthcoming, or because of a
+lack of time or funds modern excavation is slow and
+costly, whereas survey is cheap, quick, relatively nondestructive,
+and requires only GPS, maps, compasses,
+and tapes. Usually, however, archaeologists deliberately
+choose a surface approach as a source of regional data in
+order to investigate speciﬁc questions that interest them
+and that excavation could not answer.
+Survey encompasses a broad range of techniques: no
+longer just the identiﬁcation of sites and the recording
+or collection of surface artifacts, but sometimes also the
+sampling of natural and mineral resources such as stone
+and clay. Much survey today is aimed at studying the
+spatial distribution of human activities, variations between
+regions, changes in population through time, and relationships
+between people, land, and resources.
+Survey in Practice. For questions formulated in regional
+terms, it is necessary to collect data on a corresponding
+scale in a way that provides the most information for the
+least cost and effort. The region to be surveyed needs to be
+deﬁned: its boundaries may be natural (such as a valley),
+cultural (the extent of an artifact style), or purely arbitrary,
+though natural boundaries are the easiest to establish.
+The area’s history of development needs to be examined,
+not only to familiarize oneself with previous archaeological
+work and with the local materials but also to assess the
+extent to which surface material may have been covered
+or removed by natural processes. There is little point, for
+example, in searching for prehistoric material in sediments
+only recently laid down by river action. Other factors may
+have affected surface evidence as well. In much of Africa,
+for example, great animal herds or burrowing animals will
+often have disturbed surface material, so that the archaeologist
+may be able to examine only very broad distribution
+patterns. Geologists and environmental specialists can
+generally provide useful advice.
+This background information will help determine the
+intensity of surface coverage of the survey. Other factors
+to take into consideration are the time and resources
+available, and how easy it is actually to reach and record an
+area. Arid and semi-arid environments with little vegetation
+are among the best for this type of work; in equatorial
+rainforest, survey may be limited to soil exposures along
+river banks, unless time and labor permit the cutting
+of trails to form a survey grid. Many regions, of course,
+contain a variety of landscapes, and a single survey strategy
+is often inadequate to cover them. Flexibility of approach
+is required, with the area "stratiﬁed" into zones of differing
+visibility, and an appropriate technique devised
+for each. Moreover, it must be remembered that some
+archaeological phases (with diagnostic artifacts) are more
+"visible" than others, and that mobile hunter-gatherer or
+pastoral communities leave a very different and generally
+sparser imprint on the landscape than do agricultural or
+urban communities (see Chapter 5). All these factors must
+be taken into account when planning search patterns and
+recovery techniques.
+Another point to consider is whether material should
+be collected or merely examined for its associations and
+context (where context is disturbed, as in parts of Africa,
+mentioned above, collection is often the most sensible
+option). And should collection be total or partial? Usually,
+a sampling method is employed (see box, p. 80).
+There are two basic kinds of surface survey: the unsystematic
+and the systematic. The former is the simpler,
+involving walking across each part of the area, scanning
+a strip of ground, collecting or examining artifacts on the
+surface, and recording their location together with that
+of any surface features. It is generally felt, however, that
+the results may be biased and misleading. Walkers have an
+inherent desire to ﬁnd material, and will therefore tend
+to concentrate on those areas that seem richer, rather
+than obtaining a sample representative of the whole area
+that would enable the archaeologist to assess the varying
+distribution of material of different periods or types. On
+the other hand, the method is ﬂexible, enabling the team
+to focus greater efforts on the areas that have proved most
+likely to contain ﬁnds.
+Most modern survey is done systematically, employing
+either a grid system or a series of equally spaced traverses
+or transects (straight paths) across the area. The area to be
+searched is divided into sectors, and these (or a sample of
+them) are walked. In this way, no part of the area is either
+under- or overrepresented in the survey. This method also
+communication. The work has also revealed former watercourses
+and canals, and even probable zones of cultivation.
+Alternatively, survey can be made more intensive
+by aiming at total coverage of a single large site or sitecluster
+what one might call "micro-regional" survey. It
+is a paradox that some of the world’s greatest and most
+famous archaeological sites have never, or only recently,
+been studied in this way, since attention has traditionally
+focused on the grandiose monuments themselves
+rather than on any attempt to place them within even a
+local context. At Teotihuacán, near Mexico City, a major
+mapping project initiated in the 1960s has added hugely
+to our knowledge of the area around the great pyramidtemples
+(see pp. 97 and 100).
+Surface survey has a vital place in archaeological work,
+and one that continues to grow in importance. In modern
+projects, however, it is usually supplemented (and often
+preceded) by reconnaissance from above either from the
+air or from space. In fact, the availability of aerial images
+can be an important factor in selecting and delineating
+an area for surface survey.
+Aerial and Satellite Survey
+Archaeological survey using airborne or spaceborne
+remote sensing can be divided into two component parts:
+data collecting, which comprises acquiring photographs or
+images from aircraft, satellites, or UAVs (drones); and data
+analysis, in which these images are analyzed, interpreted,
+and (often) integrated with other evidence, such as may
+be collected by ﬁeld survey, ground-based remote sensing,
+or from documents. From the viewpoint of the photo interpreter
+or image analyst, satellite images, multispectral/
+hyperspectral data, and traditional aerial photographs are
+all potentially useful sources, though they differ in scale
+and resolution and carry different issues of interpretation.
+These data will collectively be referred to as "aerial images."
+Millions of aerial images have already been taken Many
+are available for consultation in specialist libraries; a lesser
+quantity is freely available online. Most result from "area
+survey," in which aerial images are taken in overlapping
+series to cover predeﬁned areas. A small number are taken
+each year by archaeologists conducting prospective surveys
+in light aircraft. It must be stressed that aerial images,
+even those from prospective survey, are used for a wide
+range of archaeological purposes, such as the discovery
+and recording of sites, and the monitoring of changes in
+them through time, or the photographing of buildings and
+urban (and other) development in fact, recording almost
+anything that "may not be there tomorrow." Nevertheless,
+the taking and analysis of aerial images from aircraft or
+satellite has led to a large number of archaeological discoveries,
+and the tally grows every year.
+How Are Aerial Images Used? Images taken from the air
+are merely tools; they are a means to an end. Images do
+not themselves reveal sites it is the image taker and
+the interpreter who do so, by examination of the terrain
+and the pictures. These are specialized skills. Experience
+and a keen eye are needed to differentiate archaeological
+traces from other features such as vehicle tracks, old
+riverbeds, and patterns produced by modern cultivation
+a process that benefits from a broad understanding of
+landscape history, including an awareness of contemporary
+processes.
+Aerial images are of two types: oblique and vertical. Each
+has its advantages and drawbacks, but oblique images
+have usually been taken of sites observed from the air
+by an archaeologist and thought to be of archaeological
+signiﬁcance, whereas most vertical images result from
+non-archaeological surveys (for instance, cartographic
+surveys). Both types of image can be used to provide overlapping
+stereoscopic pairs of prints that enable a scene to
+be examined in three dimensions and so add conﬁdence
+to any interpretation. Stereoscopic pictures taken of the
+ancient city of Mohenjodaro in Pakistan from a tethered
+balloon, for example, have enabled photogrammetric
+(accurately contoured) plans to be made of its surviving
+structures. Similarly, large areas can be surveyed with
+overlapping images, which are then processed into a very
+accurate photographic base map of all the archaeological
+evidence visible from the air. Such images are a useful tool
+to inform analytical ground survey.
+The ways in which sites show from the air and how they
+are interpreted are discussed in the box overleaf. Oblique
+images are often targeted on archaeological features that
+may show clearly, while vertical images may need to be
+more thoroughly examined by an interpreter seeking such
+information. Both types of image can be rectiﬁed and
+georeferenced using computer programs. This removes
+the scale and perspective distortions of oblique images
+and can correct for tilt and off-nadir distortion in vertical
+views. Use of a digital terrain model (making a 3D model
+of the ground based on contours or via LIDAR or ALS
+data see below) in the rectiﬁcation process produces
+greater accuracy where the ground is undulating or has
+high relief. After computer transformation, the resulting
+image may be layered in graphics software or a GIS (see pp.
+94 97) and interpreted by overdrawing the archaeological
+features that have been identiﬁed. Site-speciﬁc mapping at
+scales of 1:2,500 can show considerable detail within a site
+and can be accurate to less than ± 1 m (± 3 ft.). This allows
+features to be measured and compared and is essential in
+providing precise locations so that excavation trenches
+can be positioned accurately and cost-effectively (see box,
+p. 88 89). This is the usual method for interpreting and
+mapping archaeological features from aerial images in
+Britain and Europe and could be a useful tool elsewhere.
+Mapping of individual sites from aerial photographs is
+often necessary in research or salvage (rescue) archaeology
+and also forms the foundations of landscape mapping
+and understanding. The ability to study large areas is often
+only possible using aerial resources. In Britain, Rog Palmer
+used thousands of individual photographs of a 450-sq. km
+(175-sq. mile) territory around the Iron Age hillfort of
+Danebury in Hampshire to produce accurate maps. These
+show that the site lay within very complex agricultural
+landscapes, with at least eight other hillforts in the area.
+
+set of "orthophotos~ geometrically corrected images
+representing an exact likeness of the earth that can later
+be georeferenced and used for making accurate drawings.
+One recent experiment run by Jesse Casana and
+his colleagues used a drone carrying optical and thermal
+cameras to record parts of the Chaco-period (900 u 8o
+CE) Blue I site in New Mexico. Flights followed a predetermined
+course synchronized with times of day when
+thermal responses were expected from different ground
+features. Images from each sensor were combined to
+produce an orthophoto mosaic that was tied to ground
+control points and could be precisely compared with
+others. The Blue J site is well known from ground and
+other survey, thus providing a good test environment
+for the method. The thermal imagery did reveal almost
+3.19 A Cha co-period house compound at Blue J, New Mexico. Thermal
+imagery collected by a drone at 5 :18A.M. (upper left) reveals a
+roomblock, e nclosure wall, and plaza area, all of wh ich have been
+confirmed by conventional survey and test excavation (upper right).
+These features are not visible in a color photograph (center left), and are
+difficult to see through vegetation noise in thermal imagery from 9:50 P.M.
+(center right) or 6:18A.M. (bottom right). Thermal imagery collected just
+after sunrise at 7:18 A.M. (bottom left) reveals the subtle topography of
+the house compound.
+Enclosure
+wall
+N i
+.... .1 ·
+3.10 The earthworks of the later prehistoric settlement at Braidwood, in
+southern Scotla nd, were documented by Historic Environment Scotland
+with photographs taken from a drone. lmage-based mode ling software
+fi rst geometrically corrected the photographs to the appropriate scale
+and aligned them with a spare point cloud of coordinates of the landscape
+(top left). Texture was then added from the photos (top right). Finally,
+a dense point cloud of coordinates (bottom left) was used t o produce a
+multi-d irection hillshade model (bottom right).
+all the known archaeological features, suggesting that it
+could prove a useful tool in areas where similar remains
+might be expected.
+LIDAR and SLAR. Use of LIDAR (light detection and
+ranging) also known asALS (airborne laser scanning)
+has proved extremely valuable in the past few years. This
+technique uses an aircraft, the exact position of which
+is known through use of a differential GPS, carrying a
+laser scanner that rapidly pulses a series of beams to the
+ground. By measuring the time taken for these to return
+to the aircraft, an accurate 3D "point cloud" is created,
+which can be processed to produce precise digital elevation
+models (or digital surface models: DSMs) and a wide range
+of different visualizations of the data. LIDAR provides
+archaeologists with two great advantages over conventional
+aerial photography: tree canopies can be eliminated
+where the laser is able to penetrate to the ground surface
+through gaps in the vegetation; and the 3D terrain models
+can be visualized in many ways, simply by moving the angle
+and azimuth of the sun to enable ground features to be
+viewed under optimal (and sometimes naturally impossible)
+lighting. Both facilities have been used effectively
+in England where new sites mostly enlargements to
+field systems have been found, and locational corrections
+made to the existing record of the landscape around
+Stonehenge. A good example of the practical application
+of LIDAR to an archaeological site comes from the Maya
+city of Caracol in Belize (see box, p. 88). One variant of
+ALS, green LIDAR, can penetrate shallow water and has
+
+successfully been used to identify and record submerged
+remains in parts of the Mediterranean Sea.
+Another remote sensing technique, sideways-looking
+airborne radar (SLAR), has yielded evidence suggesting
+that Maya agriculture was more intensive than previously
+imagined. The technique involves recording in radar
+images the return of pulses of electromagnetic radiation
+sent out from a ﬂying aircraft. Since radar will penetrate
+cloud cover and to some extent dense rainforest, Richard
+Adams and his colleagues were able to use SLAR from a
+high-ﬂying NASA aircraft to scan 80,000 sq. km (31,200
+sq. miles) of the Maya lowlands. The SLAR images
+revealed not only ancient cities and ﬁeld systems but
+also an enormous lattice of gray lines, some of which may
+have been canals, to judge by subsequent inspections by
+canoe. If ﬁeld testing reveals that the canals are ancient,
+it will show that the Maya had an elaborate irrigation and
+water-transport system.
+Satellite Imagery and Google Earth. It is now routine
+to access Google Earth and use the high-resolution air
+photos and satellite cover there, or to buy copies of them.
+For example, a desert camp used by Lawrence of Arabia
+in World War I (1918) was recently located in Jordan as
+a result of Google Earth being used to examine a likely
+location shown in contemporary photographs.
+The high-resolution images publicly available from the
+IKONOS (about 1 m, 3 ft., resolution) and QuickBird
+(60 cm, 24 in.) satellites offer data comparable with
+aerial photographs, while Google Earth has basic world
+cover from NASA’s LANDSAT series (28.5 m, 94 ft.)
+but also incorporates IKONOS, QuickBird, and GeoEye
+images, some other satellite imagery, and conventional
+aerial photographs. IKONOS and QuickBird provide
+both multispectral (MS) and panchromatic (PAN) highresolution
+imagery in which such details as buildings are
+easily visible. The imagery can be imported into remote
+sensing image-processing software, as well as into GIS
+packages for analysis.
+Some useful early work was done using images from
+the LANDSAT series. Scanners record the intensity of
+reﬂected light and the infrared radiation from the earth’s
+surface, and convert these electronically into photographic
+images. LANDSAT images have been used to
+trace large-scale features such as ancient levee systems in
+Mesopotamia and an ancient riverbed running from the
+deserts of Saudi Arabia to Kuwait, as well as sediments
+around Ethiopia’s Rift Valley that are likely to contain
+hominin fossil beds.
+The introduction of Google Earth has been a true "aerial
+revolution," since it offers every archaeologist the opportunity
+to examine the ground and look for archaeological
+sites for example, it is being used by paleontologists in
+Africa to hunt for fossils; in 2008 it revealed 500 new caves
+in South Africa alone, including the one that yielded the
+bones of Australopithecus sediba (see p. 167). Hundreds of
+new archaeological sites in Afghanistan and thousands of
+tombs in Saudi Arabia are also being discovered by this
+method. But the same "rules" of visibility apply to those
+images as to conventional aerial photos, and absence of
+
+capability for the creation of digital elevation models. As
+the best ground resolution is 15 m (50 ft.), ASTER is useful
+for examination of terrain rather than for detecting sites,
+unless they are very large, such as the tell settlements
+typical in the Middle East.
+The European Space Agency’s Sentinel-2 comprises
+two satellites capable of recording locations in the globe’s
+mid-latitudes every two to three days using multispectral
+sensors. Images are added to the ESA’s website and can be
+used to monitor crop development to help select optimal
+dates for commissioning higher-resolution aerial cover
+or to check vegetation cover prior to field survey visits.
+Satellite remote sensing projects carried out by archaeologists
+with backgrounds in both remote sensing and
+archaeology have much to offer, but satellite archaeology
+should not be regarded as a substitute for archaeological
+excavation or survey work. It is just one among a number
+of tools that archaeologists may want to employ in their
+research. Besides revealing the presence of (sub)surface
+archaeological features (even in areas previously surveyed),
+satellite remote sensing can place archaeological sites in
+a much larger context, showing past social landscapes
+in all their complexity and helping greatly with quality
+assessment. Analysis of satellite imagery may further aid
+archaeologists in determining where to excavate and may
+precede archaeological survey. Archaeologists will need
+to persist in rethinking their surveying and excavation
+strategies in light of this new information, especially as
+image resolution continues to increase with technological
+advances.
+Recording and Mapping Sites in Survey
+As already noted in the discussion of aerial survey, the
+pinpointing of sites and features on regional maps is an
+essential next step in survey. To have discovered a site is
+one thing, but only when it has been adequately recorded
+does it become part of the sum total of knowledge about
+the archaeology of a region.
+Mapping is the key to the accurate recording of most
+survey data. For surface features, such as buildings and
+roads, both topographic and planimetric maps are used.
+Topographic maps represent differences in elevation or
+height by means of contour lines and help relate ancient
+structures to the surrounding landscape. Planimetric
+maps exclude contour lines and topographic information,
+concentrating instead on the broad outlines of features,
+therefore making it easier, for example, to understand
+the relationship of different buildings to each other. On
+some site maps the two techniques are combined, with
+natural relief depicted topographically and archaeological
+features planimetrically.
+In addition to plotting a site on a map including its
+exact latitude, longitude, and map grid reference (or a
+metric UTM reference) proper recording entails giving
+the site some kind of locational designation and entering
+this on a site record form, along with information
+about who owns the site, its condition, and other details.
+Locational designations vary in different parts of the world.
+In the United States, they usually consist of a two-digit
+number for the state, a pair of letters for the county, and
+a number indicating that this is the nth site discovered in
+that county. Thus site 36WH297 designates the 297th site
+discovered in Washington County (WH), in the state of
+Pennsylvania (36). This is the locational designation for
+the famous Paleoamerican Meadowcroft Rockshelter.
+One of the great values of designating sites using
+these alphanumerical systems is that the information
+can be entered easily on computer ﬁles, for quick
+data retrieval, for example in salvage archaeology or
+settlement-pattern studies.
+
+The standard approach to archaeological mapping is
+now the use of GIS (geographic information systems),
+described in one official report as "the biggest step forward
+in the handling of geographic information since the invention
+of the map." GIS are collections of computer hardware
+and software and of geographic data, designed to obtain,
+store, manage, manipulate, analyze, and display a wide
+range of spatial information. They combine a database
+with powerful digital mapping tools, and developed out
+of computer-aided design and mapping (CAD/CAM)
+programs during the 1970s. Some CAD programs, such
+as AutoCAD, can be linked to commercial databases and
+have proved valuable in allowing the automatic mapping
+of archaeological sites held in a computer database. A true
+GIS, however, also incorporates the ability to carry out
+a statistical analysis of site distribution, and to generate
+new information. Given information about slope and distance,
+for example, a GIS can also be used for cost-surface
+analysis, mapping catchment areas and site territories,
+taking the surrounding terrain into account. Here, the
+software and digital landscape information are fed into
+a computer, along with (as a standard measurement) the
+figure of one hour for a 5-km (3-mile) walk on the flat. The
+software then does the calculations, using built-in data on
+the energy cost of traversing different kinds of terrain.
+Therefore GIS have applications far beyond recording and
+mapping, and we shall return to their analytical capabilities
+in Chapters 5 and 6.
+A GIS will hold information on the location and attributes
+of each site or point recordecl Spatial data can be
+reduced to three basic types: point, line, and polygon (or
+area). Each of these units can be stored along with an
+identifying label and a number of non-spatial attributes,
+such as name, date, or material. A single archaeological
+find might therefore be represented by an easting
+and northing coordinate and a find number, while an
+ancient road would be recorded as a string of coordinate
+pairs and its name. A field system could be defined as
+strings of coordinates following each field boundary, along
+with reference names or numbers. Each map (sometimes
+described in a GIS as a '1ayer" or"coverage") may comprise
+a combination of points, lines, and polygons, togetherwi th
+their different non-spatial attributes.
+Within a map layer, the data may be held in vector
+format, as points, lines, and polygons, or they may be
+stored as a grid of cells, or raster format (see ill. 3.42).
+A raster layer recording vegetation, for example, would
+comprise a grid within which each cell contains information
+on the vegetation present at that point. Nowadays,
+most commercial systems will allow these different data
+structures to be mixed.
+A GIS may include an enormous amount of environmental
+data on relief, communications, hydrology, etc.
+To make all this information easier to handle, it is normal
+to divide it into different map layers, each representing
+a single variable. Archaeological data may themselves
+be split into several layers, most often so that each layer
+represents a discrete "time-slice". As long as they can
+be spatially located, many different types of data can be
+integrated in a GIS. These can include site plans, artifact
+distributions, aerial images, and geophysica I survey results,
+as well as maps. A good example of many different types
+of data being incorporated into a GIS is the Giza Plateau
+Mapping Project in Egypt (see box pp. 94 95).
+The ability to incorporate aerial images into a GIS can
+be particularly valuable for site reconnaissance as they can
+provide detailed and current land-use information. Many
+topographic data already exist in the form of digital maps
+which can be taken directly into a GIS. Knowing exact
+ground coordinates is essential in archaeological practice
+
+An example developed by the Illinois State Museum
+for the Shawnee National Forest in southern Illinois predicts
+the likelihood of ﬁnding a prehistoric site anywhere
+within the 91 sq. km (35 sq. miles) of the forest by using the
+observed characteristics of the sixty-eight sites, which are
+known from the 12 sq. km (4.6 sq. miles) that have been
+surveyed. A GIS database was constructed for the entire
+area including data themes for elevation, slope, aspect,
+distance to water, soil type, and depth to the water table.
+The characteristics of the known sites were compared with
+the characteristics of the locations known not to contain
+sites using a statistical procedure known as "logistic regression,"
+a probability model resulting in an equation that
+can be used to predict the probability that any location
+with known environmental characteristics will contain
+a prehistoric site.
+The potential value of predictive modeling with GIS has
+also become apparent outside North America, particularly
+in the Netherlands and in Britain. Such models can be of
+value both in understanding the possible distribution of
+archaeological sites within a landscape, and also for the
+protection and management of archaeological remains in
+cultural resource management (see Chapter 15).
+Many GIS applications, especially those based on
+predictive modeling, have been criticized as being environmentally
+deterministic, and it is easy to see why. Such
+data as soil types, rivers, altitude, and land use can be measured,
+mapped, and converted into digital data, whereas
+cultural and social aspects of landscape are much more
+problematic. In an attempt to escape from these more
+functionalist analyses, archaeologists have used the GIS
+function called viewsheds to try to develop more humanistic
+appreciations of landscape (see box pp. 186 87, and
+main text pp. 185 and 191).
+Assessing the Layout of Sites
+and Features
+Finding and recording sites and features is the ﬁrst stage
+in ﬁeldwork, but the next stage is to make some assessment
+of site size, type, and layout. These are crucial factors
+for archaeologists, not only for those who are trying to
+decide whether, where, and how to excavate, but also for
+those whose main focus may be site management or the
+study of settlement patterns, site systems, and landscape
+archaeology without planning any recourse to excavation.
+We have seen how aerial images may be used to locate
+and plot the layout of sites. What are the other main
+methods for investigating sites without excavating them?
+Site Surface Survey
+The simplest way to gain some idea of a site’s extent and
+layout is through a site surface survey by studying the
+distribution of surviving features, and recording and possibly
+collecting artifacts from the surface.
+The Teotihuacán Mapping Project, for instance, used
+site surface survey to investigate the layout and orientation
+of the city, which was the largest and most powerful
+urban center in Mesoamerica in its heyday from 200
+to 650 ce. The layout and orientation of the city had
+intrigued scholars for decades; however, they considered
+the grandiose pyramid-temples, plazas, and the major
+avenue an area now known as the ceremonial center to
+be the entire extent of the metropolis. It was not until the
+survey conducted by the Teotihuacán Mapping Project
+that the outer limits, the great east west axis, and the grid
+plan of the city were discovered and deﬁned. Fortunately,
+structural remains lay just beneath the surface, so that
+the team were able to undertake the mapping from a
+combination of aerial and surface survey, with only smallscale
+excavation to test the survey results. Millions of
+potsherds were collected, and more than 5,000 structures
+and activity areas recorded. Since 1980, a team
+from the Mexican Institute of Archaeology and History
+(INAH) has been enlarging the picture so successfully
+established by the Teotihuacán project survey. Other teams
+employed geophysical methods to map a system of caves
+and tunnels used for extracting construction material, as
+well as for burials and rituals. Magnetometer and resistivity
+surveys (see pp. 102 3), undertaken by a team from the
+National Autonomous University of Mexico led by Linda
+Manzanilla, were used to create a 3D reconstruction of
+subsurface contours.
+For artifacts and other objects collected or observed
+during surface survey, it may not be worth mapping their
+individual locations if they appear to come from badly
+disturbed secondary contexts. Or there may simply be too
+many artifacts realistically to record all their individual
+proveniences. In this latter instance, the archaeologist
+will probably use sampling procedures for the selective
+recording of surface ﬁnds. Where time and funds are
+sufﬁcient and the site is small enough, however, collection
+and recording of artifacts from the total site area may
+prove possible. For example, Frank Hole and his colleagues
+picked up everything from the entire surface of a 1.5-ha
+(3.7-acre) open-air prehistoric site in the Valley of Oaxaca,
+Mexico, plotting locations using a grid of 5-m (16-ft.)
+squares. They transformed the results into maps with
+contour lines indicating not differences in elevation but
+relative densities of various types of materials and artifacts.
+It then became clear that, although some objects (such as
+projectile points) were evidently in a secondary context
+
+Subsurface Detection
+Probes. The most traditional technique is that of probing
+the soil with rods or augers and noting the positions where
+they strike solids or hollows. Metal rods with a T-shaped
+handle are the most common, but augers large corkscrews
+with a similar handle are also used, and have
+the advantage of bringing samples of soil to the surface,
+clinging to the screw. Many archaeologists routinely use
+handheld probes that yield small, solid cores. Probing
+of this type was used, for example, to gauge the depth
+of the midden at the Ozette site in Washington State
+(pp. 60 61) and by Chinese archaeologists to plot the
+hundreds of pits remaining to be investigated near the
+ﬁrst emperor’s famous buried terracotta army. In the mid-
+1980s, the American archaeologist David Hurst Thomas
+and his team used more than 600 systematically spaced
+test probes with a gasoline-powered auger in their successful
+search for a lost sixteenth-century Spanish mission on
+St. Catherine’s Island off the coast of Georgia in the US.
+Augers are also used by geomorphologists studying site
+sediments. However, there is always a risk of damaging
+fragile artifacts or features.
+One notable advance in this technique was developed
+by Carlo Lerici (1890 1981) in Italy in the 1950s as part
+of the search for Etruscan tombs of the sixth century bce.
+Having detected the precise location of a tomb through
+aerial photography and soil resistivity (see below), he
+would bore down into it a hole 8 cm (3 in.) in diameter,
+and insert a long tube with a periscope head and light,
+with a tiny camera attached if needed. Lerici examined
+some 3,500 Etruscan tombs in this way, and found that
+almost all were completely empty, saving future excavators
+a great deal of wasted effort. He also discovered more than
+twenty with painted walls, therefore doubling the known
+heritage of Etruscan painted tombs at a stroke.
+Probing the Pyramids. Modern technology has taken this
+kind of work even further, with the development of the
+endoscope (see Chapter 11) and miniature TV cameras.
+In a project reminiscent of Lerici, a probe was carried out
+in 1987 of a boat pit beside the Great Pyramid of Khufu
+(Cheops), in Egypt. This lies adjacent to another pit, excavated
+in 1954, which contained the perfectly preserved and
+disassembled parts of a 43-m (141-ft.) long royal cedarwood
+boat of the third millennium bce (see p. 334). The 1987
+probe revealed that the unopened pit did indeed contain
+all the dismantled timbers of a second boat. In 2008 a
+team from Waseda University inserted a second miniature
+camera to re-examine the boat’s condition and ascertain
+whether it could be safely lifted. The covering stone blocks
+and the boat’s timbers were duly removed in 2011.
+Robot probes with miniature cameras have been sent up
+the so-called "airshafts" of the Great Pyramid to discover
+whether or not they link up to hidden chambers. For
+example, the Pyramid Rover was able to reach and drill
+through a previously discovered stone slab blocking one of
+these shafts, revealing another doorway behind. Further
+
+probes have been used by French and Japanese teams
+who believe the Pyramid may contain as yet undiscovered
+chambers or corridors; using ultrasensitive microgravimetric
+equipment normally employed to search for
+deﬁciencies in dam walls, as it can tell if a stone has a
+hollow behind it they detected what they think is a cavity
+some 3 m (10 ft.) beyond one of the passage walls. Test
+drilling to support this claim, however, has not been completed.
+All tests are carefully monitored by the Egyptian
+authorities until their potential contribution to Egyptology
+has been established. Projects of this kind are beyond the
+resources of most archaeologists. But in future, funds permitting,
+probes of this type could equally well be applied
+to other Egyptian sites, to cavities in Maya structures, or
+to the many unexcavated tombs in China.
+Ground-Based Remote Sensing
+Probing techniques are useful, but inevitably involve some
+disturbance of the site. There is, however, a wide range
+of non-destructive techniques ideal for the archaeologist
+seeking to learn more about a site before or increasingly
+often without excavation. These are geophysical
+sensing devices that measure energies and properties in
+the soil in order to "read" what lies below the surface.
+These energies and properties may be natural magnetism
+and gravity, or waves passed through the soil manually by
+the archaeologist.
+Seismic and Acoustic Methods. Some types of echo-sounding,
+such as sonar, have been employed in archaeology. For
+example, detection of anomalies can ﬁnd cavities such as
+caves. Seismic methods normally used by oil prospectors
+have helped to trace details of the foundations of St. Peter’s
+Basilica in the Vatican in Rome.
+One of the most important archaeological applications
+of echo-sounding techniques, however, is in underwater
+projects (see box p. 114). In one case, after a bronze statue
+of an African boy was brought up in a sponge-diver’s net
+off the Turkish coast, George Bass and his colleagues were
+able to locate the Roman ship from which it came by means
+of echo-location systems. The use of multibeam sonar can
+gather huge amounts of data from wreck sites for the creation
+of 3D terrain models; it covers the seabed below and
+to either side of the survey vessel, and derives continuous
+and well-positioned spot heights for thousands of points
+on the seabed as the vessel moves forward.
+Electromagnetic Methods. A basically similar method,
+which employs not sonic but radio pulses, is groundpenetrating
+(or probing) radar (GPR). An emitter sends
+short pulses through the soil, and the echoes not only
+reﬂect back any changes in the soil and sediment conditions
+encountered, such as ﬁlled ditches, graves, walls,
+etc., but also measure the depth at which the changes
+occur on the basis of the travel time of the pulses. Threedimensional
+maps of buried archaeological remains can
+then be produced from data-processing and image-generation
+programs.
+In archaeological exploration and mapping, the
+antenna is towed by a vehicle or dragged manually along
+the ground, sending out and receiving many pulses per
+second. The measurements are collated into a 3D model.
+One advance of such models is the use of "time-slices"
+or "slice-maps." Thousands of individual reﬂections are
+combined into a single three-dimensional dataset which
+can then be "sliced" horizontally, each slice corresponding
+to a speciﬁc estimated depth in the ground, and revealing
+the general shape and location of buried features at successive
+depths. For example, in the Forum Novum, an ancient
+Roman marketplace located about 100 km (60 miles)
+north of Rome, British archaeologists from the University
+of Birmingham and the British School of Archaeology in
+Rome needed a fuller picture of an unexcavated area than
+they had been able to obtain from aerial photographs and
+other techniques such as resistivity (see below). A series
+of GPR slices of the area revealed a whole architectural
+layout of the site which means that future excavation can
+be concentrated on a representative sample of the structures,
+avoiding a costly and time-consuming uncovering
+of the whole area.
+Parts of the fourth-largest Roman city in England, that
+of Wroxeter in Shropshire (see box pp.104 5), have been
+studied by GPR as well as other geophysical methods;
+"time-slices" from different depths have revealed the
+town’s changing history through 400 years.
+In Japan, a burial mound at Kanmachi Mandara of
+about 350 ce was protected from excavation by cultural
+property laws, so GPR was used to locate the burial area
+within the mound, and determine its structural design.
+Radar proﬁles were taken at 50-cm (20-in.) intervals across
+the mound, with pulses that could penetrate about 1 m
+(3 ft.) into the ground.
+Earth Resistance Survey. A commonly used method that
+has been employed on archaeological sites for several
+decades, is electrical resistivity. The technique derives from
+the principle that the wetter the soil the more easily it will
+conduct electricity, i.e. the less resistance it will show to an
+electric current. A resistivity meter attached to electrodes
+in the ground can therefore measure varying degrees of
+subsurface resistance to a current passed between the
+electrodes. Silted-up ditches or ﬁlled-in pits retain more
+moisture than stone walls or roads and will therefore
+display lower resistivity than stone structures.
+The technique works particularly well for ditches and
+pits in chalk and gravel, and masonry in clay. Two "mobile"
+probes, ﬁxed to a frame that also supports the meter, are
+inserted into the earth for each reading. A variation of the
+
+method is resistivity profiling, which involves the measurement
+of earth resistance at increasing depths across a site,
+by widening the probe spacings and so building up a vertical
+"pseudosection." Today, in areas where other forms of
+survey do not produce good contrasts, a combination of
+multiple profiles across a site is used to create 3D images
+of buried surfaces (and "time-slices" comparable to those
+produced for GPR data).
+One drawback of earth resistance survey is that it is
+rather slow due to the need to make electrical contact
+with the soil. Mobile earth resistance systems, with probe
+arrays mounted on wheels, have been developed by French
+and British geophysicists to increase the speed of survey
+coverage. Another drawback is that as with such other
+techniques it will not fully function if the soil is too
+hard or too dry, and that it is at its most effective on
+shallow, single-phase sites rather than deep, complex
+sites. Nevertheless, the method is an effective complement
+to other remote sensing survey methods. Indeed, it
+can replace magnetic methods (see below) since, unlike
+some of these, it can be used in some urban areas, close
+to power lines, and in the vicinity of ferrous metal. Many
+things detectable by magnetism can also be found by earth
+resistance; and in some ﬁeld projects it has proved the
+most successful device for locating features. Techniques
+based on magnetism are, however, of potentially greater
+importance to archaeologists.
+Magnetic Survey Methods. These are among the most
+widely used methods of survey, being particularly helpful
+in locating ﬁred clay structures such as hearths and pottery
+kilns, iron objects, and pits and ditches. Such buried features
+all produce slight but measurable distortions in the
+earth’s magnetic ﬁeld. The reasons for this vary according
+to the type of feature, but are based on the presence of
+magnetic minerals, even if only in minute amounts. For
+example, grains of iron oxide in clay, their magnetism
+randomly orientated if the clay is unbaked, will line up
+and become permanently ﬁxed in the direction of the
+earth’s magnetic ﬁeld when heated to about 200 400 °C
+(370 740 °F) or more. The baked clay therefore becomes
+a weak permanent magnet, creating an anomaly in the
+surrounding magnetic ﬁeld. (This phenomenon of thermoremanent
+magnetism, or TRM, also forms the basis
+for magnetic dating see Chapter 4.) Anomalies caused
+by pits and ditches, on the other hand, occur because
+the so-called magnetic susceptibility of their contents is
+greater than that of the surrounding subsoil. "Magnetic
+susceptibility" is the ability of some materials that are not
+permanently magnetized to enhance the strength of an
+externally generated magnetic field, such as the earth’s,
+where it passes through them.
+All the magnetic instruments can produce informative
+site plans, which help to delimit archaeological potential
+(see box, p. 106). The commonest means of presentation
+are color and grayscale maps, which, along with contour
+maps, are used to display earth resistance survey results. In
+the case of magnetic survey, the contour map has contour
+lines that join all points of the same value of the magnetic
+ﬁeld intensity this successfully reveals separate anomalies,
+such as tombs in a cemetery.
+New developments in image processing by computer
+make it possible to manipulate geophysical datasets in
+order to reduce spurious effects and highlight subtle
+archaeological anomalies. For example, "directional
+ﬁltering" allows a data "surface" of any chosen vertical
+scale to be "illuminated" from various directions and
+elevations to make subtle anomalies more visible. Such
+processing mimics the revealing effects of low sunlight
+on earthworks, but with the added ﬂexibility of computer
+manipulation.
+Today, multiple types of sensors both electromagnetic
+and magnetic are often integrated on moving
+platforms or "mobile arrays," which allows for simultaneous
+measurements.
+Metal Detectors. These electromagnetic devices are also
+helpful in detecting buried remains. An alternating magnetic
+ﬁeld is generated by passing an electrical current
+through a transmitter coil. Buried metal objects distort
+this ﬁeld and are detected as a result of an electrical signal
+picked up by a receiver coil.
+Metal detectors can be of great value to archaeologists,
+particularly as they can provide general results and are
+able to locate modern metal objects that may lie near the
+surface. They are also very widely used by non-archaeologists,
+most of whom are responsible enthusiasts, but
+some of whom vandalize sites mindlessly and often illegally
+dig holes without recording or reporting the ﬁnds
+they make, which are therefore without context. There
+are now 30,000 metal detectorists in Britain alone. The
+ofﬁcial British Portable Antiquities Scheme (see box,
+p. 575) seeks to harness their enthusiasm for archaeological
+beneﬁt. One of the great successes of recent years of the
+Portable Antiquities Scheme has been the discovery by an
+amateur detectorist of the remarkable Staffordshire hoard
+of Anglo-Saxon gold and silver metalwork (see ill. 3.56).
+Geochemical Analysis. Geochemical analysis involves
+taking samples of soil at intervals (such as every 1 m, or
+3 ft.) from the surface of a site and its surroundings, and
+measuring their elemental content. In the past, topsoil
+was considered to be too disturbed and unstratiﬁed, and
+so devoid of archaeological information; it was often
+removed mechanically and quickly, without investigation.
+Now, it is clear that even the surface of an archaeological
+site that appears totally disturbed can yield important
+chemical information. Organic components of occupation
+debris may disappear, while the inorganic ones remain:
+of these, magnesium or calcium can be analyzed, but it
+is the phosphates that are the most diagnostic and easily
+identiﬁed. High phosphate concentrations may be the
+only surface sign of an archaeological site. Tests on sites
+in England, examining samples taken at 20-cm (8-in.)
+intervals from the surface downward, have conﬁrmed that
+undisturbed archaeological features in the subsoil can be
+accurately reﬂected in the topsoil.
+The phosphate method can also be valuable for the
+interpretation of sites with no apparent internal architectural
+features, and can help clarify the function of
+different parts of an excavated site. For example, in a
+Romano-British farmstead at Cefn Graeanog, North Wales,
+J. S. Conway took soil samples at 1-m (3-ft.) intervals from
+the ﬂoors of excavated huts and from neighboring ﬁelds,
+and mapped their phosphorus content as contour lines. In
+one building, a high level of phosphorus across the middle
+implied the existence of two animal stalls with a drain for
+urine running between them. In another, the position of
+two hearths was marked by high readings.
+Geochemical methods can also reveal what processes
+or activities were being carried out in the past. Portable
+infrared spectrometers first appeared in the late 1980s,
+and today portable instruments such as X-ray fluorescence
+(XRF) spectrometers and scanners are routinely employed
+to give a detailed analysis of the chemical composition
+of soils, pigments, calcite, limestone, plaster, ash, etc.,
+without the need to take samples. One major advantage
+of handheld devices is that such instruments avoid a
+reliance on off-site laboratories where samples previously
+had to be sent for analysis, often causing months
+of delay.
+
+Excavation
+So far, we have discovered sites and mapped as many of
+their surface and subsurface features as possible. But,
+despite the growing importance of survey, the only way
+to check the reliability of surface data, confirm the accuracy
+of remote sensing techniques, and actually see what
+remains of these sites and obtain dates, is to excavate them.
+As mentioned before, survey can tell us a little about a large
+area, but only excavation can tell us a great deal about a
+relatively small area.
+Excavation retains its central role in fieldwork because
+it yields the most reliable evidence for the two main kinds
+of information archaeologists are interested in: ( 1) human
+activities at a particular period in the past; and ( 2) changes
+in those activities from period to period. Very broadly
+speaking, contemporary activities take place horizontally
+in space, whereas changes in those activities occur vertically
+through time. It is this distinction between horizontal
+"slices of time" and vertical sequences through time that
+forms the basis of most excavation methodology.
+3,57 The complexity of stratification varies with the type of site.
+This hypothetical section through an urban deposit indicates
+the kind of complicated stratigraphy, in both vertical and
+horizontal dimensions, that the archaeologist can encounter.
+There may be few undisturbed stratified layers. The chances
+of finding preserved organic material increase as one
+approaches the water table, near which deposits
+may be waterlogged.
+present ground
+surface
+natural
+soil level
+drain
+intact stratification
+preserved organic material
+In the horizontal dimension, archaeologists demonstrate
+contemporaneity that activities did indeed
+occur at the same time by proving to their satisfaction
+through excavation that artifacts and features are found
+in association in an undisturbed context. Of course, as
+we saw in Chapter 2, there are many formation processes
+that may disturb this primary context. One of the main
+purposes of the survey and remote sensing procedures
+outlined in the earlier sections is to select for excavation
+sites, or areas within sites, that are reasonably undisturbed.
+On a single-period site, such as an East African
+early human campsite, this is vital if human behavior at
+the camp is to be reconstructed at all accurately. But on
+a multi-period site, such as a long-lived European town
+or Near Eastern tell, finding large areas of undisturbed
+deposits will be almost impossible. Here archaeologists
+have to try to reconstruct during and after excavation
+just what disturbance there has been and then decide
+how to interpret it. Oearly, adequate records must be
+made as excavation progresses if the task of interpretation
+is to be undertaken with any chance of success. In
+the vertical dimension, archaeologists analyze changes
+through time by the study of stratigraphy.
+
+On the Paleolithic site, for example, one has some
+hope of uncovering all the structures and recording the
+exact position or provenience, vertically and horizontally,
+of each and every artifact. On the urban site, one has no
+chance of doing this, given time and funding constraints.
+Instead, one has to adopt a sampling strategy (see box,
+p. 80) and only key artifacts such as coins (important for
+dating purposes: see p. 140) will have their provenience
+recorded with three-dimensional precision, the remainder
+being allocated simply to the layer and perhaps the grid
+square in which they were found.
+One should note, however, that we have already reintroduced
+the idea of the vertical and horizontal dimensions.
+These are as crucial to the methods of excavation as they
+are to the principles behind excavation. Broadly speaking,
+one can divide excavation techniques into:
+1 those that emphasize the vertical dimension, by
+cutting into deep deposits to reveal stratiﬁcation;
+2 those that emphasize the horizontal dimension, by
+opening up large areas of a particular layer to reveal
+the spatial relationships between artifacts and
+features in that layer.
+Most excavators employ a combination of both strategies,
+but there are different ways of achieving this. All presuppose
+that the site has been surveyed and a grid of squares
+created to aid in accurate recording.
+Shovel Test Pits (STPs) and Evaluation Trenches. These
+are often the first form of excavation undertaken at an
+archaeological site. The purpose of these small pits is to
+gain a preliminary idea of what lies beneath the surface.
+They are often dug into the ground at consistent distances
+from each other. In Europe, they are traditionally in the
+form of 1-m (3-ft.) squares; but in some parts of North
+America, small round holes are dug, about the diameter
+of a dinner plate, and less than 1 m (3 ft.) deep. These pits
+help disclose what an area has to offer, and help identify
+the extent of a possible site, while analysis and plotting of
+the material retrieved from them by screening (sieving)
+of the soil can produce maps showing areas with high
+concentrations of different kinds of artifacts. This method
+is commonly employed as part of site surveys for CRM
+projects in areas of the USA with poor surface visibility,
+such as forested areas of the East Coast.
+Evaluation trenches have often proved to be more effective
+than 1-m (3-ft.) squares. These trenches, c. 20 50 m
+(65 164 ft.) long, are usually laid out on a grid, or target
+specific features that have already been detected by other
+methods (such as air photography or geophysical survey),
+and expose a certain percentage of the area, typically 2 to
+5 percent. Thousands of such trenches are dug in Britain
+alone every year.
+Site Grids and Open-Area Excavation. The site grid is laid
+out from a "datum," which is simply a selected location that
+serves as a reference point for all horizontal and vertical
+measurements taken at the site, so that the site can be
+accurately mapped and the exact location of any artifact or
+feature can be recorded in three dimensions. Increasingly,
+the use of a Total Station (see p. 96) is removing the need
+to lay out a grid. The Wheeler box-grid seeks to satisfy both
+vertical and horizontal requirements by retaining intact
+balks of earth between the squares of the grid so that different
+layers can be traced and correlated across the site
+in vertical proﬁles. Once the general extent and layout of
+the site have been ascertained, some of the balks can be
+removed and the squares joined into an open excavation
+to expose any features (such as a mosaic ﬂoor) that are
+of special interest. The box-grid method is still widely
+used in parts of South Asia where it was introduced by
+Wheeler in the 1940s. It remains popular as it enables
+large numbers of untrained workers in individual boxes
+to be easily supervised by small numbers of staff.
+Advocates of open-area excavation, such as the English
+excavator Philip Barker, criticize the Wheeler method,
+arguing that the balks are invariably in the wrong place or
+wrongly oriented to illustrate the relationships required
+from sections, and that they prevent the distinguishing of
+spatial patterning over large areas. It is far better, these
+critics say, not to have such permanent or semi-permanent
+balks, but to open up large areas and only to cut vertical
+sections (at whatever angle is necessary to the main site
+grid) where they are needed to elucidate particularly
+complex stratigraphic relationships. Apart from these
+"running sections," the vertical dimension is recorded
+by accurate three-dimensional measurements as the dig
+proceeds and reconstructed on paper after the end of
+the excavation. The introduction since Wheeler’s day of
+more advanced recording methods, including ﬁeld computers,
+makes this more demanding open-area method
+feasible, and it has become the norm in much of British
+archaeology.
+The open-area method is particularly effective where
+single-period deposits lie near the surface, as for instance
+with remains of Native American or European Neolithic
+longhouses. Here the time dimension may be represented
+by lateral movement (a settlement rebuilt adjacent to,
+not on top of, an earlier one) and it is essential to expose
+large horizontal areas in order to understand the complex
+pattern of rebuilding. Large open-area excavations are
+often undertaken in applied or compliance archaeology
+(salvage or rescue archaeology) when land is going to be
+destroyed otherwise farmers are naturally opposed to
+stripping large areas of plow-disturbed soil.
+Sometimes, if time and money are short, and structures
+lie sufﬁciently close to the surface, the topsoil can simply
+
+Underwater Excavation. Underwater archaeology is generally
+considered to have been given its first major impetus
+during the winter of 1853 54, when a particularly low
+water level in the Swiss lakes exposed enormous quantities
+of wooden posts, pottery, and other artifacts. It was
+significantly developed in the 1960s during Honor Frost’s
+underwater excavation of Gelidonya in Turkey (see box,
+p. 33). The method has examined a wide variety of sites,
+including wells, sinkholes, and springs (e.g. the great sacrificial
+well at Chichén ltzá, Mexico); submerged lakeside
+settlements; and marine sites ranging from shipwrecks to
+sunken harbors (e.g. Caesarea, Israel) and drowned cities
+(e.g. Port Royal, Jamaica).
+Submersible craft, scuba-diving gear and rebreathers,
+and "exosuits" enable divers to work for ever longer periods,
+reaching sites at previously impossible depths. As a result,
+the pace and scale of discovery have greatly increased. More
+than 1,000 shipwrecks are known in shallow Mediterranean
+waters, but recent explorations using deep-sea submersibles,
+such as miniature unmanned submarines (remotely
+operated vehicles ROVs and autonomous underwater
+vehicles AUVs) with sonar, high-powered lighting, and
+video cameras, have begun to find Roman wrecks at depths of
+up to 850 m (2,790 ft.). Two Phoenician wrecks packed with
+amphorae (storage jars), discovered off the coast of Israel,
+are the oldest vessels ever found in the deep sea.
+Excavation underwater is complex and expensive
+(not to mention the highly demanding post-excavation
+conservation and analytical work that is also required).
+Once under way, the excavation may involve shifting
+vast quantities of sediment, and recording and removing
+bulky objects as diverse as storage jars, metal ingots, and
+cannon. George Bass, founder of the Institute of Nautical
+Archaeology in Texas, and others have developed many
+helpful devices, such as baskets attached to balloons to
+raise objects, and air lifts (suction hoses) to remove sediment.
+If the vessel’s hull survives at all, a 3D plan must be
+made so that specialists can later reconstruct the overall
+form and lines, either on paper or as a model or full-size
+replica (see box, pp. 112 13). In some rare cases, such as
+that of England’s Mary Rose (sixteenth century ce), preservation
+is sufficiently good for the remains of the hull to
+be raised funds permitting.
+Excavating sunken vessels reveals not only how they
+were constructed but also aspects of shipboard life,
+cargoes, trade routes, early metallurgy, and glassmaking.
+We look in more detail at two projects: the Red Bay Wreck,
+off Canada (see box, pp. 112 13), and the Uluburun Wreck,
+off Turkey (pp. 374 75).
