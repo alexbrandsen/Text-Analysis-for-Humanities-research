@@ -28,5 +28,5 @@ Can't get Anaconda to work? Try using Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexbrandsen/Text-Analysis-for-Humanities-research/master)
 
-
+This will allow you to do the exercises in your browser without installing anything. Note: as this is all done remotely, you have to use the 'download' button to save your work!
 
